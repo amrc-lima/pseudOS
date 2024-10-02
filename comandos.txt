@@ -1,0 +1,53 @@
+mkdir Receitas
+mkdir Carros
+mkdir Filmes
+cd Receitas
+mkdir Massas
+mkdir Cozidos
+mkdir Bolos
+cd Massas
+touch Lasanha
+touch Pizza
+touch Macarrão
+cd ../Cozidos
+touch Cozido de Carne
+touch Cozido de Galinha
+touch Cozido de Legume
+cd ../Bolos
+touch Bolo Formigueiro
+touch Bolo de Laranja
+touch Bolo de Limão
+cd ../../Carros
+mkdir Ford
+mkdir Chevrolet
+mkdir Wolksvagen
+cd Ford
+touch Ford Ka
+touch Ford Focus
+touch Fiesta
+cd ../Chevrolet
+touch Onix
+touch Corsa
+touch Camaro
+cd ../Wolksvagen
+touch Crossfox
+touch Polo
+touch Gol
+cd ../../Filmes
+mkdir Ação
+mkdir Comédia
+mkdir Terror
+cd Ação
+touch Rambo
+touch Exterminador do Futuro
+touch Robocop
+cd ../Comédia
+touch O Máscara
+touch Um Morto Muito Louco
+touch Superbad
+cd ../Terror
+touch Alien
+touch O Exorcista
+touch Get Out
+cd\
+tree
